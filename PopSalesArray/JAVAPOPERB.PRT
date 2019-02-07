@@ -1,0 +1,18 @@
+02/06/2019                                                  ALBIA SOCCER CLUB FUNDRAISER  
+                                                                  MCFARLAND DIVISION
+                                                                     ERROR REPORT                  
+LAST NAME      FIRST NAME     ADDRESS          CITY       STATE  ZIP         POP TYPE  QUANTITY   TEAM      ERROR     
+               Raphael        4724 Cooper Str  Arthur       MO   928474313      6         29        B       Invalid Last Name
+Watson                        1669 Railroad S  Marion       MI   932234414      4         64        E       Invalid First Name
+Howard         Luke                            Elgin        MO   634615701      5         38        A       Invalid Address
+Payne          Javier         9075 Willow Str               IL   836351491      3         27        D       Invalid City
+Daniels        IsmaelAri      7183 Clark Stre  Cullman           247051266      4         7         D       Invalid State
+Love           Ezekiel        5038 Washington  Simsbury     AA   763127218      4         48        B       Invalid State
+Curtis         Chris          2728 High Stree  Oroville     IA   763127218      1         39        B       Invalid Zip
+Silva          Dawson         5821 Brandywine  Mansfield    MO   763127218      4         40        A       Invalid Zip
+Blake          Desmond        7264 College Av  Montgomery   MI   14338461       0         66        A       Invalid Pop Type
+Lawson         Lorenzo        4683 Ivy Court   Concord      NE   82910444       0         80        A       Invalid Pop Type
+Roberts        Hugo           6929 Jackson St  Kokomo       IL   837237609      2         0         B       Invalid Quantity
+Santiago       Corey          4401 Garden Str  Oxnard       NE   962621072      3         0         B       Invalid Quantity
+Hall           Nathan         6245 Clinton St  Pine Bluff   WI   807110628      5         18        F       Invalid Team
+AyalaSchroeder Francis        2674 Hartford R  Manchester   MI   542550576      6         65        F       Invalid Team
